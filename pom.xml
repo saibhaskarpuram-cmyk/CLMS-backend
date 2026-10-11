@@ -44,11 +44,10 @@
 			<scope>runtime</scope>
 		</dependency>
 
-		<!-- H2 in-memory database for testing -->
+		<!-- H2 in-memory database -->
 		<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
-			<scope>test</scope>
 		</dependency>
 
 		<!-- Spring Boot Starter Test: for JUnit 5 and Mockito -->
